@@ -12,6 +12,7 @@
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +89,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
       <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._2_StartTheGoogleMapsActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_3_StartThePhoneActivity" type="AndroidJUnit" factoryName="Android JUnit" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._3_StartThePhoneActivity" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -209,21 +226,21 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="263" y="39" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1366.768@0.0.1366.768" timestamp="1601104514312" />
-    <state width="1306" height="336" key="GridCell.Tab.0.bottom" timestamp="1601115242382">
+    <state width="1306" height="336" key="GridCell.Tab.0.bottom" timestamp="1601116587124">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="336" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601115242382" />
-    <state width="1306" height="336" key="GridCell.Tab.0.center" timestamp="1601115242382">
+    <state width="1306" height="336" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601116587124" />
+    <state width="1306" height="336" key="GridCell.Tab.0.center" timestamp="1601116587123">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="336" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601115242382" />
-    <state width="1306" height="336" key="GridCell.Tab.0.left" timestamp="1601115242382">
+    <state width="1306" height="336" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601116587123" />
+    <state width="1306" height="336" key="GridCell.Tab.0.left" timestamp="1601116587122">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="336" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601115242382" />
-    <state width="1306" height="336" key="GridCell.Tab.0.right" timestamp="1601115242382">
+    <state width="1306" height="336" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601116587122" />
+    <state width="1306" height="336" key="GridCell.Tab.0.right" timestamp="1601116587123">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="336" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601115242382" />
+    <state width="1306" height="336" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601116587123" />
   </component>
 </project>
